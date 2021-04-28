@@ -1,4 +1,4 @@
-### Ciao Mondo!
+# Ciao Mondo!
 Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss
 
 <p align="center">

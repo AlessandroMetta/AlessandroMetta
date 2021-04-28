@@ -2,7 +2,7 @@
 Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss.
 
 <p align="center">
-	<img align="center" src="https://badge42.herokuapp.com/api/stats/ametta"/>
+	<img align="center" width=auto src="https://badge42.herokuapp.com/api/stats/ametta"/>
 </p>
 
 <!--

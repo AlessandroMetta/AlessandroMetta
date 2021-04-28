@@ -1,9 +1,7 @@
 # Ciao Mondo!
 Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss
 
-<p align="center">
-	[42 site](https://ametta42.github.io/42Docs_IT/)
-</p>
+[42 site](https://ametta42.github.io/42Docs_IT/)
 
 <p align="center">
 	<img align="center" width=auto src="https://badge42.herokuapp.com/api/stats/ametta"/>

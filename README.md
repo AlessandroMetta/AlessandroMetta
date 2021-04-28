@@ -1,5 +1,6 @@
 ### Ciao Mondo!
-Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss.
+## Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss
+## La mia ambizione... diventare un developer
 
 <p align="center">
 	<img align="center" width=auto src="https://badge42.herokuapp.com/api/stats/ametta"/>

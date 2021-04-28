@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ciao Mondo!
+Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss.
 
 <!--
 **ametta42/ametta42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

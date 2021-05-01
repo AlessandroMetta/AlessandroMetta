@@ -1,8 +1,9 @@
-# Ciao Mondo!
-Sono Alessandro, ho 19 anni e studio presso la 42RomaLuiss
+# Hello World!
+I'm Alessandro, I'm 19 and I'm studing at [42RomaLuiss](https://42roma.it/), the BE(A)ST coding school, founded in Paris by Xavier Niel.
 
-[42 site](https://ametta42.github.io/42Docs_IT/)
+I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/)
 
+This are my stats:
 <p align="center">
 	<img align="center" width=auto src="https://badge42.herokuapp.com/api/stats/ametta"/>
 </p>

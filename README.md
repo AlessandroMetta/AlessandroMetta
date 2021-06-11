@@ -3,6 +3,8 @@ I'm a 19 guy which fall in love with problem solving, coding... and all that coo
 
 I'm actually studing at [42RomaLuiss](https://42roma.it/), the BE(A)ST coding school, founded in Paris by Xavier Niel.
 
+In my repos you'll find my projects in 42school. GLHF👾!
+
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 
 This are my stats:

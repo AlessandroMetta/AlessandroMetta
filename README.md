@@ -1,5 +1,7 @@
 # Hello World!
-I'm Alessandro, I'm 19 and I'm studing at [42RomaLuiss](https://42roma.it/), the BE(A)ST coding school, founded in Paris by Xavier Niel.
+I'm a 19 guy which fall in love with problem solving, coding... and all that cool stuff!
+
+I'm actually studing at [42RomaLuiss](https://42roma.it/), the BE(A)ST coding school, founded in Paris by Xavier Niel.
 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 

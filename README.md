@@ -8,12 +8,8 @@ In my repos, you'll find my solutions to the 42's projects. Feel free to downloa
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 
 This are my stats:
-<p align="center">
-	<img align="center" width=auto src="https://badge42.herokuapp.com/api/stats/ametta"/>
-</p>
-<p align="center">
+<p align=center width=auto>
+	<img src="https://badge42.herokuapp.com/api/stats/ametta"/>
 	<img width=auto src="https://github-readme-stats.vercel.app/api?username=ametta42&show_icons=true&count_private=true" alt="ametta42" />
-</p>
-<p align="center">
 	<img width=auto src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=ametta42&layout=compact" alt="ametta42" />
 </p>

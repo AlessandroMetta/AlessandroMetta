@@ -10,6 +10,10 @@ In my repos, you'll find my solutions to the 42's projects. Feel free to downloa
 This are my stats:
 <p align=center width=auto>
 	<img src="https://badge42.herokuapp.com/api/stats/ametta"/>
+</p>
+<p align=center width=auto>
 	<img width=auto src="https://github-readme-stats.vercel.app/api?username=ametta42&show_icons=true&count_private=true" alt="ametta42" />
+</p>
+<p align=center width=auto>
 	<img width=auto src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=ametta42&layout=compact" alt="ametta42" />
 </p>

@@ -12,8 +12,8 @@ This are my stats:
 	<img src="https://badge42.herokuapp.com/api/stats/ametta"/>
 </p>
 <p align=center width=auto>
-	<img width=auto src="https://github-readme-stats.vercel.app/api?username=ametta42&show_icons=true&count_private=true" alt="ametta42" />
+	<img width=auto src="https://github-readme-stats.vercel.app/api?username=ametta42&show_icons=true&count_private=true" alt="AlessandroMetta" />
 </p>
 <p align=center width=auto>
-	<img width=auto src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=ametta42&layout=compact" alt="ametta42" />
+	<img width=auto src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=ametta42&layout=compact" alt="AlessandroMetta" />
 </p>

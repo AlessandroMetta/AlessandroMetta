@@ -8,7 +8,7 @@ In my repos, you'll find my 42project. Feel free to download my code and try it.
 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 
-This are my stats:
+Here's my stats:
 <p align=center width=auto>
 	<img src="https://badge42.herokuapp.com/api/stats/ametta"/>
 </p>

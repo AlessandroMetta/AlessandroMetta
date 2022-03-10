@@ -13,7 +13,7 @@
 #### 📂 In my repos, you'll find my 42project. Feel free to download and try it. If you found errors or have suggestions for something I coded, create an issue insie the repo. If you need help, email me. GLHF👾!
 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
-#### 📈 Here're my [Resume](https://github.com/AlessandroMetta/AlessandroMetta/blob/main/CV.pdf)
+#### 📝 Here're my [Resume](https://github.com/AlessandroMetta/AlessandroMetta/blob/main/CV.pdf)
 
 #### 📈 Here're my stats:
 <!--

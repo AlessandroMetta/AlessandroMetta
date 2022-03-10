@@ -2,9 +2,9 @@
 
 Hi, I'm 20, I'm form Rivarone, Alessandria, Piedmont, Italy and I love coding, I started coding when I was 15yo.
 
-Now I live in Rome and I attend at [42RomaLuiss](https://42roma.it/), the BE(A)ST coding school, founded in Paris by Xavier Niel in Paris in 2013 and from 2021 also in Rome.
+Now I live in Rome where I attend at [42RomaLuiss](https://42roma.it/), the BE(A)ST Coding School in the World, part of the [42Network](https://42.fr/en/network-42/), started in 2013 in Paris by Xavier Niel, today with 42 campuses in 25 countries.
 
-In my repos, you'll find my 42project. Feel free to download my code and try it. If you found errors or have suggestions for something I coded, create an issue inside the repo and report it. If you need help, email me. GLHF👾!
+In my repos, you'll find my 42project. Feel free to download and try it. If you found errors or have suggestions for something I coded, create an issue inside the repo. If you need help, email me. GLHF👾!
 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 

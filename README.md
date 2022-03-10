@@ -4,9 +4,9 @@
 
 ##### 💻 I've been loving programming since I was 15.
 
-##### 📍 Now I live in Rome, where I attend at [42RomaLuiss](https://42roma.it/), the BE(A)ST Coding School in the World, fouded by Riccardo Zacconi and LUISS in 2021, part of the [42Network](https://42.fr/en/network-42/), started in 2013 with the first campus in Paris by Xavier Niel, today with 42 campuses in 25 countries.
+##### 📍 Now I live in Rome, where I attend at [42RomaLuiss](https://42roma.it/), the BE(A)ST Coding School in the World, fouded by Riccardo Zacconi and LUISS in 2021, is part of the [42Network](https://42.fr/en/network-42/), started in 2013 with the first campus in Paris, fouded by Xavier Niel, today with 42 campuses in 25 countries.
 
-In my repos, you'll find my 42project. Feel free to download and try it. If you found errors or have suggestions for something I coded, create an issue inside the repo. If you need help, email me. GLHF👾!
+📂 In my repos, you'll find my 42project. Feel free to download and try it. If you found errors or have suggestions for something I coded, create an issue inside the repo. If you need help, email me. GLHF👾!
 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 

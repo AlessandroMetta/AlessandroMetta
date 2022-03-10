@@ -1,6 +1,6 @@
 <!--- ![Enigma image](170712045212-03-german-enigma-machine-auction-exlarge-169-krUG-U11003607069681gFD-1024x576@LaStampa.it.jpg) -->
 
-Hi, I'm 20, I'm form Alessandria, Piedmont, Italy and I love coding, I started coding when I was 15yo.
+Hi, I'm 20, I'm form Rivarone, Alessandria, Piedmont, Italy and I love coding, I started coding when I was 15yo.
 
 Now I live in Rome and I attend at [42RomaLuiss](https://42roma.it/), the BE(A)ST coding school, founded in Paris by Xavier Niel in Paris in 2013 and from 2021 also in Rome.
 

@@ -4,7 +4,7 @@
 
 #### 😄 I'm 20 y.o. guy form [Rivarone](https://en.wikipedia.org/wiki/Rivarone), Alessandria, Piedmont, Italy.
 
-#### 🤔 I'm interested in musics, films and arts. I'm always tries to challenge myself with something new. Actually I'm learning French.
+#### 🤔 I'm interested in musics, films and arts. I'm always tries to challenge myself with something new. Currently I'm learning French.
 
 #### 💻 I'm also love tecnology and I've been starting coding since I was 15 y.o.
 

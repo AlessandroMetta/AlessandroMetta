@@ -9,9 +9,11 @@ In my repos, you'll find my 42project. Feel free to download and try it. If you 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 
 Here's my stats:
+<!--
 <p align=center width=auto>
 	<img src="https://badge42.herokuapp.com/api/stats/ametta"/>
 </p>
+-->
 <p align=center width=auto>
 	<img width=auto src="https://github-readme-stats.vercel.app/api?username=AlessandroMetta&show_icons=true&count_private=true" alt="AlessandroMetta" />
 </p>

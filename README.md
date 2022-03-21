@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm Alessandro
 
-#### 😄 I'm 20 y.o. guy form [Rivarone](https://en.wikipedia.org/wiki/Rivarone), [Alessandria](https://en.wikipedia.org/wiki/Alessandria), [Piedmont](https://en.wikipedia.org/wiki/Piedmont), Italy.
+#### 😄 I'm a 20 y.o. guy form [Rivarone](https://en.wikipedia.org/wiki/Rivarone), [Alessandria](https://en.wikipedia.org/wiki/Alessandria), [Piedmont](https://en.wikipedia.org/wiki/Piedmont), Italy.
 
 #### 🤔 I'm interested in musics, movies and arts. I'm always tries to challenge myself with something new. Currently I'm learning French.
 

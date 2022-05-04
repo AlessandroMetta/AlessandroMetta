@@ -18,7 +18,9 @@
 #### 📝 Here's my [Resume](https://github.com/AlessandroMetta/AlessandroMetta/blob/main/CV.pdf)
 
 #### 📈 My stats:
-[![ametta's 42 stats](https://badge42.vercel.app/api/v2/cl2rnoexq001609juu65lu7i3/stats?cursusId=21&coalitionId=126)](https://github.com/JaeSeoKim/badge42)
+<a align=center width=auto href="https://github.com/JaeSeoKim/badge42">
+	<img src="https://badge42.vercel.app/api/v2/cl2rnoexq001609juu65lu7i3/stats?cursusId=21&coalitionId=126" alt="ametta's 42 stats" />
+</a>
 <p align=center width=auto>
 	<img width=auto src="https://github-readme-stats.vercel.app/api?username=AlessandroMetta&show_icons=true&count_private=true" alt="AlessandroMetta" />
 </p>

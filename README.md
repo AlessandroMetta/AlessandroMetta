@@ -12,17 +12,15 @@
 
 #### The campus is part of the [42Network](https://42.fr/en/network-42/), started with the opening of the first campus in 2013 in [Paris](https://en.wikipedia.org/wiki/42_(school)), founded by [Xavier Niel](https://en.wikipedia.org/wiki/Xavier_Niel), founder of [Iliad](https://en.wikipedia.org/wiki/Iliad_(company)). Today it count 42 campuses in 25 countries.
 
-#### 📂 In my repos, you'll find my 42project. Feel free to download and try it. If you found errors or have suggestions for something I coded, create an issue insie the repo. If you need help, email me. GLHF👾!
+#### 📂 In my repos, you'll find my project of the 42cursus. Feel free to download and try it. If you found errors or have suggestions for something I coded, create an issue inside the repo. For everything, email me. GLHF👾!
 
 <!-- I'm also working on [my Italian 42Docs site](https://ametta42.github.io/42Docs_IT/) -->
 #### 📝 Here's my [Resume](https://github.com/AlessandroMetta/AlessandroMetta/blob/main/CV.pdf)
 
 #### 📈 My stats:
-<!--
 <p align=center width=auto>
 	<img src="https://badge42.herokuapp.com/api/stats/ametta"/>
 </p>
--->
 <p align=center width=auto>
 	<img width=auto src="https://github-readme-stats.vercel.app/api?username=AlessandroMetta&show_icons=true&count_private=true" alt="AlessandroMetta" />
 </p>
